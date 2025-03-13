@@ -11,8 +11,8 @@ import requests
 
 
 BOT_TOKEN = os.environ.get("BOT_TOKEN")
-API_ID = os.environ.get("API_ID")
-API_HASH = os.environ.get("API_HASH")
+API_ID = os.environ.get("24853719")
+API_HASH = os.environ.get("d88df23f822a7e3bf60157a0f3a8a11d")
 # vosk supported language(code), see supported languages here: https://github.com/alphacep/vosk-api
 LANGUAGE_CODE = os.environ.get("LANGUAGE_CODE", "en-us")
 # language model download link (see available models here: https://alphacephei.com/vosk/models)
